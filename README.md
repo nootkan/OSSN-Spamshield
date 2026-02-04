@@ -54,26 +54,34 @@ OSSN SpamShield is an invisible anti-spam and bot protection component for Open 
 2. **Ensure the following directory structure:**
 ```
    OssnSpamShield/
-   ├── actions/
-   │   └── admin/
-   │       └── settings.php
-   ├── locale/
-   │   └── ossn.en.php
-   ├── pages/
-   │   └── administrator/
-   │       └── ossn_spamshield.php
-   ├── plugins/
-   │   └── default/
-   │       ├── js/
-   │       │   └── ossn_spamshield/
-   │       │       └── js.php
-   │       └── settings/
-   │           └── administrator/
-   │               └── ossn_spamshield/
-   │                   └── settings.php
-   ├── ossn_com.php
-   ├── ossn_com.xml
-   └── README.md
+├── actions/
+│   └── admin/
+│       └── settings.php
+├── locale/
+│   └── ossn.en.php
+├── pages/
+│   └── administrator/
+│       └── ossn_spamshield.php
+├── plugins/
+│   └── default/
+│       ├── css/
+│       │   └── ossn_spamshield.php
+│       ├── forms/
+│       │   ├── OssnSpamShield/
+│       │   │   └── administrator/
+│       │   │       └── settings.php
+│       │   └── signup/
+│       │       └── before/
+│       │           └── spamshield_fields.php
+│       ├── js/
+│       │   └── ossn_spamshield.php
+│       └── settings/
+│           └── administrator/
+│               └── OssnSpamShield/
+│                   └── settings.php
+├── ossn_com.php
+├── ossn_com.xml
+└── README.md
 ```
 
 3. **Log in as administrator**
