@@ -192,7 +192,7 @@ When a guest tries to register:
 **Solutions:**
 1. Ensure JavaScript is enabled in their browser
 2. Ensure cookies are enabled in their browser
-3. Check that they're waiting at least 7 seconds before submitting (most humans take 10-20 seconds to fill out a form)
+3. If using auto fill check that they're waiting at least 7 seconds before submitting (most humans take 10-30 seconds to manually fill out a form)
 4. Check error logs for specific error messages
 5. Verify component is configured correctly
 
