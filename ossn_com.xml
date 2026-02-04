@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns="http://www.opensource-socialnetwork.org/v/3.0">
+    <name>OssnSpamShield</name>
+    <id>OssnSpamShield</id>
+    <author>Van Isle Web Solutions</author>
+    <description>Multi-layer spam protection for OSSN with honeypot, timing validation, JavaScript detection, cookie verification, user agent filtering, and rate limiting. Protects registration, contact forms, and all actions from spam bots while maintaining seamless experience for legitimate users.</description>
+    <license>GPL-2.0</license>
+    <author_url>https://vanislewebsolutions.com</author_url>
+	<license_url>https://www.gnu.org/licenses/old-licenses/gpl-2.0.html</license_url>
+    <version>1.0.0</version>
+    <requires>
+        <type>ossn_version</type>
+        <version>8.9</version>
+    </requires>
+</component>
