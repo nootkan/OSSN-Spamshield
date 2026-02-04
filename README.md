@@ -105,7 +105,7 @@ OSSN SpamShield is an invisible anti-spam and bot protection component for Open 
 The component comes with sensible defaults:
 
 - **Enabled:** Yes
-- **Minimum Submit Time:** 1 second
+- **Minimum Submit Time:** 7 seconds
 - **Rate Limit Window:** 10 seconds
 - **Cookie SameSite Policy:** Lax
 
@@ -192,7 +192,7 @@ When a guest tries to register:
 **Solutions:**
 1. Ensure JavaScript is enabled in their browser
 2. Ensure cookies are enabled in their browser
-3. Check that they're waiting at least 1 second before submitting
+3. Check that they're waiting at least 7 seconds before submitting (most humans take 10-20 seconds to fill out a form)
 4. Check error logs for specific error messages
 5. Verify component is configured correctly
 
@@ -289,9 +289,9 @@ Please provide:
 
 ## License
 
-GPL-2.0
+GPL-3.0
 
-This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; version 2 of the License.
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; version 3 of the License.
 
 ---
 
