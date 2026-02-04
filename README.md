@@ -2,7 +2,7 @@
 
 **Version:** 1.0.0  
 **Author:** Van Isle Web Solutions  
-**License:** GPL-2.0  
+**License:** GPL-3.0  
 **Compatibility:** OSSN 6.0+
 
 ## Description
