@@ -2,7 +2,7 @@
 
 **Version:** 1.0.0  
 **Author:** Van Isle Web Solutions  
-**License:** GPL-3.0  
+**License:** GPL-3.0-or-later  
 **Compatibility:** OSSN 6.0+
 
 ## Description
@@ -289,7 +289,7 @@ Please provide:
 
 ## License
 
-GPL-3.0
+GPL-3.0-or-later
 
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; version 3 of the License.
 
