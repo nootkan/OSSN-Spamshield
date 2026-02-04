@@ -12,7 +12,7 @@
  *
  * @package OssnSpamShield
  * @author Van Isle Web Solutions
- * @license GPL-2.0
+ * @license GPL-3.0
  */
 
 define('__OSSN_SPAMSHIELD__', ossn_route()->com . 'OssnSpamShield/');
