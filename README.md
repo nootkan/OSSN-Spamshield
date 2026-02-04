@@ -154,7 +154,7 @@ When a guest tries to register:
 1. Log out completely
 2. Go to registration page
 3. Fill out all fields
-4. Wait 2 seconds
+4. Wait 7 seconds (if using auto fill)
 5. Submit the form
 6. **Expected:** Registration succeeds
 
